@@ -3,6 +3,18 @@ Microsoft Developer Studio Workspace File, Format Version 6.00
 
 ###############################################################################
 
+Project: "2_K_decimal"=".\2_K_decimal\2_K_decimal.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
 Project: "3n_1"=".\3n_1\3n_1.dsp" - Package Owner=<4>
 
 Package=<5>
@@ -15,7 +27,79 @@ Package=<4>
 
 ###############################################################################
 
+Project: "DNA"=".\DNA\DNA.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "IP"=".\IP\IP.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "NK"=".\NK\NK.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Tom"=".\Tom\Tom.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
 Project: "cows"=".\cows\cows.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "cylinder"=".\cylinder\cylinder.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "distribute_candy"=".\distribute_candy\distribute_candy.dsp" - Package Owner=<4>
 
 Package=<5>
 {{{
@@ -51,6 +135,18 @@ Package=<4>
 
 ###############################################################################
 
+Project: "palindrome"=".\palindrome\palindrome.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
 Project: "prime"=".\prime\prime.dsp" - Package Owner=<4>
 
 Package=<5>
@@ -64,6 +160,18 @@ Package=<4>
 ###############################################################################
 
 Project: "revert"=".\revert\revert.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "snake_matrix"=".\snake_matrix\snake_matrix.dsp" - Package Owner=<4>
 
 Package=<5>
 {{{
